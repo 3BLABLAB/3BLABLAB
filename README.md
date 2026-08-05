@@ -4,9 +4,9 @@
 ### Programming Languages   
 <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,cpp" />  
 ### Frameworks  
-<img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=react, deno" />  
+<img alt="Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=10&i=react, deno" />  
 ### Tools 
-<img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=npm, vite, git, unity " />
+<img alt="Tools" src="https://skillicons.dev/icons?theme=dark&perline=10&i=npm, vite, git, unity " />
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3BLABLAB&theme=gruvbox)
