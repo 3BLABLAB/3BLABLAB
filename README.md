@@ -3,8 +3,10 @@
 
 ### Programming Languages   
 <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,cpp" />  
+
 ### Frameworks  
 <img alt="Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=10&i=react,deno" />  
+
 ### Tools 
 <img alt="Tools" src="https://skillicons.dev/icons?theme=dark&perline=10&i=npm,vite,git,unity " />
 
